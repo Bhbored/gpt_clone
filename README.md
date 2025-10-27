@@ -18,10 +18,8 @@ This project is a simple chat application that mimics the basic functionality of
 *   **Flutter**
 *   **Dart**
 *   **Provider**
-*   **http**
-*   **google_fonts**
-*   **flutter_svg**
-*   **flutter_animate**
+*   **HTTP**
+*   **OPENAI API**
 
 ## Getting Started
 
@@ -64,5 +62,6 @@ To get a local copy up and running, follow these simple steps.
 ├── test
 └── windows
 ```
+
 
 

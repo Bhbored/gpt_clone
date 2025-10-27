@@ -1,0 +1,38 @@
+name: gpt_clone
+description: "gpt_clone."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  cupertino_icons: ^1.0.8
+  flutter:
+    sdk: flutter
+  flutter_animate: ^4.5.2
+  flutter_svg: ^2.2.1
+  google_fonts: ^6.3.2
+  http: ^1.5.0
+  provider: ^6.1.5+1
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - resources/chatgpt.json
+    - resources/avatars/ChatGPT.svg
+    - resources/avatars/ChatGPT_logo.png
+    - resources/avatars/person.png
+
+  fonts:
+    - family: din-regular
+      fonts:
+        - asset: resources/fonts/din-regular.ttf

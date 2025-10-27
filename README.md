@@ -19,7 +19,7 @@ This project is a simple chat application that mimics the basic functionality of
 *   **Dart**
 *   **Provider**
 *   **HTTP**
-*   **OPENAI API**
+*   **OpenAI API**
 
 ## Getting Started
 
@@ -62,6 +62,7 @@ To get a local copy up and running, follow these simple steps.
 ├── test
 └── windows
 ```
+
 
 
 

@@ -9,8 +9,8 @@ This project is a simple chat application that mimics the basic functionality of
 
 |                                                                                                                    |                                                                                                                    |                                                                                                                    |                                                                                                                    |
 | :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
-| ![1](https://github.com/Bhbored/gpt_clone/blob/main/screenshots/Screenshot_1761592103.png) | ![2](https://github.com/Bhbored/gpt_clone/blob/main/screenshots/Screenshot_1761592106.png) | ![3](https://github.com/Bhbored/gpt_clone/blob/main/screenshots/Screenshot_1761592141.png) | ![4](https://github.com/Bhbored/gpt_clone/blob/main/screenshots/Screenshot_1761592274.png) |
-| ![5](https://github.com/Bhbored/gpt_clone/blob/main/screenshots/Screenshot_1761592277.png) | ![6](https://github.com/Bhbored/gpt_clone/blob/main/screenshots/Screenshot_1761592416.png) | 
+| ![1](https://github.com/Bhbored/gpt_clone/blob/main/screenshots/Screenshot_1761592103.png) | ![2](https://github.com/Bhbored/gpt_clone/blob/main/screenshots/Screenshot_1761592106.png) | ![3](https://github.com/Bhbored/gpt_clone/blob/main/screenshots/Screenshot_1761592141.png) | 
+| ![4](https://github.com/Bhbored/gpt_clone/blob/main/screenshots/Screenshot_1761592277.png) | ![5](https://github.com/Bhbored/gpt_clone/blob/main/screenshots/Screenshot_1761592416.png) | 
 
 ---
 ## 🛠️Technologies Used
@@ -64,3 +64,4 @@ To get a local copy up and running, follow these simple steps.
 ├── test
 └── windows
 ```
+

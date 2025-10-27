@@ -1,4 +1,4 @@
-#🤖 GPT Clone
+## 🤖 GPT Clone
 
 A simple clone of ChatGPT, built with Flutter.
 
@@ -64,4 +64,5 @@ To get a local copy up and running, follow these simple steps.
 ├── test
 └── windows
 ```
+
 
